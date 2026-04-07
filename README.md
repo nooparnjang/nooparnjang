@@ -1,4 +1,5 @@
-<h1 align="center">Hello there!<img src="https://nooparnjang.github.io/profile/Images/V1.svg" width="50" /></h1>
+<img src="https://nooparnjang.github.io/profile/Images/V1.svg" align="center" width="50" />
+<h1 align="center">Hello there!></h1>
 
 
 <h3 align="center">Yatip Chinpattanawanich</h3>
