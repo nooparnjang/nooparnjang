@@ -1,5 +1,5 @@
-<img src="https://nooparnjang.github.io/profile/Images/V1.svg" align="center" width="50" />
-<h1 align="center">Hello there!></h1>
+<center><img src="https://nooparnjang.github.io/profile/Images/V1.svg" width="50" /></center>
+<h1 align="center">Hello there!</h1>
 
 
 <h3 align="center">Yatip Chinpattanawanich</h3>
